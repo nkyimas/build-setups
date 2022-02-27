@@ -1,0 +1,1 @@
+# Boilerplate with a simple Webpack configuration with Babel + SASS
